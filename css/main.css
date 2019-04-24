@@ -22,12 +22,19 @@
 }
 #slant {
   text-align: left;
-  margin: 20% 0 0 20%;
+  margin: 5% 0 0 10%;
 }
 h1 {
   margin-bottom: 7pt;
   font-family: 'Karla', sans-serif;
   font-size: 16pt;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+h2 {
+  margin-bottom: 7pt;
+  font-family: 'Karla', sans-serif;
+  font-size: 12pt;
   font-weight: normal;
   text-transform: uppercase;
 }
