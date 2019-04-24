@@ -1,3 +1,3 @@
 name: Kurt Hindenburg
-markdown: redcarpet
+markdown: kramdown
 rogue: true
